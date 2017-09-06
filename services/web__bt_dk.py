@@ -1,4 +1,4 @@
-refresh = 300
+refresh = 21600
 version = 20161106.01
 
 urls = ['http://www.bt.dk/sektion/nyheder',
