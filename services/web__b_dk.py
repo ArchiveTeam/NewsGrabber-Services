@@ -7,7 +7,7 @@ urls = ['https://www.b.dk/',
 	'https://www.b.dk/globalt',
 	'https://www.b.dk/debat',
 	'https://www.b.dk/kultur',
-    'https://www.b.dk/livsstil]
+    'https://www.b.dk/livsstil']
 regex = [r'^https?:\/\/[^\/]*b\.dk']
 videoregex = []
 liveregex = []
