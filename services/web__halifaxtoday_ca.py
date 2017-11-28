@@ -5,4 +5,3 @@ urls = ['https://www.halifaxtoday.ca/']
 regex = [r'^https?:\/\/[^\/]*halifaxtoday\.ca\/']	
 videoregex = []
 liveregex = []
-
